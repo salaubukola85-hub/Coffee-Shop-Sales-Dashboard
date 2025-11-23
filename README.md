@@ -1,6 +1,6 @@
 #  Coffee Shop Sales Analysis Dashboard
 
-A complete Excel-based data analysis project using a fictional coffee shop sales dataset.  
+A complete Excel-based data analysis project using a coffee shop sales dataset.  
 This project demonstrates skills in **data cleaning**, **Excel formulas**, **Pivot Tables**, and **interactive dashboard creation**.
 
 ---
