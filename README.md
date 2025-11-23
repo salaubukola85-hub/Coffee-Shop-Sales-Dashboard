@@ -1,7 +1,7 @@
 #  Coffee Shop Sales Analysis Dashboard
 
-A complete Excel-based data analysis project using a coffee shop sales dataset(USA).  
-<img width="2755" height="2025" alt="Coffee Sales Dashboard" src="https://github.com/user-attachments/assets/c4816f03-6a59-46e6-ad0c-b24816794775" />
+A complete Excel-based data analysis project using a coffee shop sales dataset(USA).  <img width="2755" height="2014" alt="coffee sales dashboard1" src="https://github.com/user-attachments/assets/15b694f4-ece9-4436-8a84-6a397de58ba5" />
+
 
 #  Project Overview
 
