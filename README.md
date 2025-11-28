@@ -1,9 +1,6 @@
 #  Coffee Shop Sales Analysis Dashboard
-# Problem Statement:
-Marvin Coffee Shop has been operating for several years, serving a growing number of customers daily. However, the management faces challenges in understanding sales trends, customer preferences, and product performance. The lack of structured data analysis makes it difficult to identify which products are most profitable, which days or times experience peak sales, and how inventory and staffing can be optimized. This results in missed opportunities for increasing revenue, improving customer satisfaction, and streamlining operations. Therefore, there is a need to conduct a detailed data analysis of sales, products, and customer behavior to provide actionable insights that will support informed business decisions and enhance overall performance.
 
-A complete Excel-based data analysis project using a coffee shop sales dataset(USA).  <img width="2755" height="2014" alt="coffee sales dashboard1" src="https://github.com/user-attachments/assets/15b694f4-ece9-4436-8a84-6a397de58ba5" />
-
+A complete Excel-based data analysis project using a coffee shop sales dataset(USA).
 #  Project Overview
 
 This project analyzes coffee shop sales across three New York City locations using Microsoft Excel. It includes **data cleaning**, **pivot table analysis**, and  **interactive dashboard** creation to identify patterns in sales.
@@ -18,6 +15,8 @@ This project analyzes coffee shop sales across three New York City locations usi
 | **Coffee Sales Dashboard.png** | Image of the final Excel dashboard |
 
 ---
+# Problem Statement:
+Marvin Coffee Shop has been operating for several years, serving a growing number of customers daily. However, the management faces challenges in understanding sales trends, customer preferences, and product performance. The lack of structured data analysis makes it difficult to identify which products are most profitable, which days or times experience peak sales, and how inventory and staffing can be optimized. This results in missed opportunities for increasing revenue, improving customer satisfaction, and streamlining operations. Therefore, there is a need to conduct a detailed data analysis of sales, products, and customer behavior to provide actionable insights that will support informed business decisions and enhance overall performance.
 
 ##  Dashboard Overview
 
@@ -91,5 +90,8 @@ This project was created to:
 - Demonstrate real Excel data analysis skills  
 - Build a professional portfolio project  
 - Show competence in building dashboards and using Pivot Tables  
-- Practice storytelling with data  
+- Practice storytelling with data
+
+<img width="2755" height="2014" alt="coffee sales dashboard1" src="https://github.com/user-attachments/assets/15b694f4-ece9-4436-8a84-6a397de58ba5" />
+
 
