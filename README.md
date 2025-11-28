@@ -1,7 +1,8 @@
 #  Coffee Shop Sales Analysis Dashboard
+# Problem Statement:
+Marvin Coffee Shop has been operating for several years, serving a growing number of customers daily. However, the management faces challenges in understanding sales trends, customer preferences, and product performance. The lack of structured data analysis makes it difficult to identify which products are most profitable, which days or times experience peak sales, and how inventory and staffing can be optimized. This results in missed opportunities for increasing revenue, improving customer satisfaction, and streamlining operations. Therefore, there is a need to conduct a detailed data analysis of sales, products, and customer behavior to provide actionable insights that will support informed business decisions and enhance overall performance.
 
 A complete Excel-based data analysis project using a coffee shop sales dataset(USA).  <img width="2755" height="2014" alt="coffee sales dashboard1" src="https://github.com/user-attachments/assets/15b694f4-ece9-4436-8a84-6a397de58ba5" />
-
 
 #  Project Overview
 
@@ -68,6 +69,20 @@ The dashboard is interactive using **slicers** for filtering.
 - Monthly performance shows a steady increase from January to June, with June recording the highest sales.
 - Product types like Barista Espresso, Brewed Chai Tea, Hot Chocolate, and Gourmet Brewed Coffee also show strong contributions, indicating diverse customer preferences beyond regular coffee.
 ---
+
+## Recommendations
+
+# Capitalize on Peak Hours
+- Introduce morning-exclusive promotions to maximize high-traffic hours
+# Ehance product Performance
+- Leverage Espresso as the best-selling item by offering bundled deals.
+- Expand premium coffee offerings to boost high-margin sales.
+# Leverage Seasonal Trends
+- Address the drop in February sales by introducing winter specials or promotions.
+- Use insights from high-performing months (June) to guide future marketing campaigns.
+# Operational Adjustments
+-Optimize staffing based on peak hours to improve efficiency and service quality.
+Adjust inventory restocking to align with demand patterns.
 
 ##  Purpose of the Project
 
