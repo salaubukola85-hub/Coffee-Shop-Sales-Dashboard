@@ -71,15 +71,15 @@ The dashboard is interactive using **slicers** for filtering.
 
 ## Recommendations
 
-# Capitalize on Peak Hours
+1. Capitalize on Peak Hours
 - Introduce morning-exclusive promotions to maximize high-traffic hours
-# Ehance product Performance
+2. Ehance product Performance
 - Leverage Espresso as the best-selling item by offering bundled deals.
 - Expand premium coffee offerings to boost high-margin sales.
-# Leverage Seasonal Trends
+3. Leverage Seasonal Trends
 - Address the drop in February sales by introducing winter specials or promotions.
 - Use insights from high-performing months (June) to guide future marketing campaigns.
-# Operational Adjustments
+4. Operational Adjustments
 -Optimize staffing based on peak hours to improve efficiency and service quality.
 Adjust inventory restocking to align with demand patterns.
 
